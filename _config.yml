@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Seong Jin's Tech"
 title_separator          : "-"
 name                     : "Seong Jin Yoon"
-description              : "An amazing website."
+description              : "An Machine Learning Tech Story"
 url                      : https://yseongjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -88,7 +88,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Engineer"
   location         : "Seoul, Korea"
-  email            : sjyoon@mgail.com
+  email            : sjyoon@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
