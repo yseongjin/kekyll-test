@@ -1,28 +1,9 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @yseongjin
- Sign out
- Watch 0
-  Star 0  Fork 0 yseongjin/kekyll-test
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathkekyll-test/.gitignore/.gitignore
-5f11167  34 seconds ago
-@yseongjin yseongjin Update .gitignore
-1 contributor
-RawBlameHistory     
-257 lines (230 sloc)  7.2 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -272,15 +253,3 @@ defaults:
       comments: # true
       share: true
       related: true
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
